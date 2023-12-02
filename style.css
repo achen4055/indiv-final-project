@@ -9,7 +9,7 @@ body {
 
 h1 a {
     color: #EF0D50;
-    font-size: 70px;
+    font-size: 55px;
     text-decoration: none;
     font-family: 'Work Sans', sans-serif;
     font-weight: 900;
@@ -111,6 +111,14 @@ nav {
 
 .about h2 {
     margin-bottom: 10px;
+}
+
+#main #about-me {
+    font-size: 50px;
+    text-align: center;
+    color: #f7346f;
+    font-weight: bold;
+    text-decoration: none;
 }
 
 .about img {
@@ -250,12 +258,15 @@ footer span:hover {
     border-radius: 4px;
 }
 
-#main h1 {
+#main h2 {
     margin-left: 40px;
     font-family: 'Work Sans', sans-serif;
     font-weight: 900;
     text-decoration: underline;
     margin-bottom: 15px;
+    font-size: 60px;
+    color: black;
+    text-align: left;
 }
 
 header h2 {
