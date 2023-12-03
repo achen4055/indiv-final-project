@@ -9,7 +9,7 @@ body {
 
 h1 a {
     color: #EF0D50;
-    font-size: 70px;
+    font-size: 55px;
     text-decoration: none;
     font-family: 'Work Sans', sans-serif;
     font-weight: 900;
@@ -111,6 +111,14 @@ nav {
 
 .about h2 {
     margin-bottom: 10px;
+}
+
+#main #about-me {
+    font-size: 50px;
+    text-align: center;
+    color: #f7346f;
+    font-weight: bold;
+    text-decoration: none;
 }
 
 .about img {
@@ -216,7 +224,7 @@ nav {
 
 footer {
     text-align: center;
-    background-color: #437f91;
+    background-color: #33596C;
     margin-top: 10px;
     padding: 10px;
 }
@@ -243,19 +251,22 @@ footer span:hover {
     font-size: 18px;
     border: none;
     outline: none;
-    background-color: red;
+    background-color: rgb(147, 0, 0);
     color: white;
     cursor: pointer;
     padding: 15px;
     border-radius: 4px;
 }
 
-#main h1 {
+#main h2 {
     margin-left: 40px;
     font-family: 'Work Sans', sans-serif;
     font-weight: 900;
     text-decoration: underline;
     margin-bottom: 15px;
+    font-size: 60px;
+    color: black;
+    text-align: left;
 }
 
 header h2 {
@@ -462,32 +473,3 @@ header h2 {
         grid-template-columns: 1fr 1fr 1fr;
     }
 }
-
-/* song name: That's What I Like
-timestamp: 0:05 - 1:19 
-link: https: //www.youtube.com/watch?v=PMivT7MJ41M
-
-song name: ghost duet 
-timestamp: the whole song 
-link: https: //www.youtube.com/watch?v=_CzSCWpF7TM
-
-song name: ODD Front 
-timestamp: (0:14 or 0:24) - 1:38 
-link: https: //www.youtube.com/watch?v=ffMfBDkmlz8 
-
-song name: Killin' Me Good
-timestamp: 0:20 - 1:20 
-link: https: //www.youtube.com/watch?v=jyw_vrI4ySg
-
-*/
-
-/* POSSIBLE SONGS
-
-- I Ain't Worried by OneRepublic
-
-song name: That's What I Like
-timestamp: 0:05 - 1:19
-link: https: //www.youtube.com/watch?v=PMivT7MJ41M
-
-
-*/
